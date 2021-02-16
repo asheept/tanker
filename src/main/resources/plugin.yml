@@ -1,0 +1,4 @@
+name: Tanker
+version: @version@
+main: asm.asheep.plugin.tanker.TankerPlugin
+api-version: 1.16
